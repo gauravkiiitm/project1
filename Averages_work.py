@@ -5,4 +5,4 @@ df.head()
 
 df.desciribe()
 
-df["value"].mean()
+df["value"].max()
